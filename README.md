@@ -2,7 +2,7 @@
 <br />
 <div align="center">
 <!--   <a href="https://github.com/othneildrew/Best-README-Template"> -->
-    <img src="Frontend/src/assets/images/logo2.png" alt="Logo" width="200" height="200">
+    <img src="Frontend/src/assets/images/whitelogo.png" alt="Logo" background-color: red width="220" height="100">
   </a>
 
   <h3 align="center">MediEase</h3>
@@ -11,10 +11,10 @@
     Virtual Telemedicine platform for enhanced Medical care <br> and Record
 Management
     <br />
-    <a href=""><strong> Explore Project Documentation »</strong></a>
+<!--     <a href=""><strong> Explore Project Documentation »</strong></a> -->
+<!--     <br /> -->
     <br />
-    <br />
-    <a href="">Watch Insights »</a>
+    <a href="https://drive.google.com/drive/u/1/folders/1_MmmGY_l7jJktSG3VWPnL3c9qgJIzIWO">Watch Insights »</a>
 
   </p>
 </div>
@@ -32,7 +32,7 @@ and personalized medication reminders, our platform aims to revolutionize health
 
 <p align="center"><em>Home Screen</em></p>
 <div align="center">
-<!-- <img align="center" src="https://github.com/Bhavesh29patil/MediVault/assets/100946390/8f36106e-7b08-4419-8d09-91152cb88241" alt="Home Screen" width="600" height="400" > -->
+<img align="center" src="https://drive.google.com/drive/u/1/folders/1Uf5eU35AB2Z6SdqB9uAU53SRz6dvxjAY" alt="Home Screen" width="600" height="400" >
 </div>
 <br></br>
 <div align="center">
