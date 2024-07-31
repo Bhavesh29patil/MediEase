@@ -30,37 +30,78 @@ and personalized medication reminders, our platform aims to revolutionize health
 
 ## Screenshots
 
+
+<div align="center">
+<img align="center" src="Frontend/src/assets/images/home_page.png" alt="Home Screen" width="600" height="300" >
 <p align="center"><em>Home Screen</em></p>
-<div align="center">
-<img align="center" src="https://drive.google.com/drive/u/1/folders/1Uf5eU35AB2Z6SdqB9uAU53SRz6dvxjAY" alt="Home Screen" width="600" height="400" >
+<br>
 </div>
-<br></br>
 <div align="center">
-<!-- <img align="center" src="https://github.com/Bhavesh29patil/MediVault/assets/100946390/dbe12317-6874-4dd2-a8ca-2b84e7cd799d" alt="Login Screen" width="450" height="300"> -->
+<img align="center" src="Frontend/src/assets/images/login.png" alt="Login Screen" width="550" height="300">
+<p align="center"><em>Login</em></p>
  </div>
   <br>
  <div align="center">
-<!-- <img align="center" src="https://github.com/Bhavesh29patil/MediVault/assets/100946390/c7bccef6-e116-442a-b4c0-d7337bcef3e7" alt="Signup Screen" width="450" height="300"> -->
+<img align="center" src="Frontend/src/assets/images/signup.png" alt="Signup Screen" width="550" height="300">
+<p align="center"><em>SignUp</em></p>
  </div>
   <br>
 <div align="center">
-<!-- <img align="center" src="https://github.com/Bhavesh29patil/MediVault/assets/100946390/b12dad54-4cf9-470a-99d4-e16236d99776" alt="Signup Screen" width="450" height="300"> -->
+<img align="center" src="Frontend/src/assets/images/services.png" alt="Services" width="550" height="300">
+<p align="center"><em>Services</em></p>
  </div>
  <br>
 <div align="center">
-<!-- <img align="center" src="https://github.com/Bhavesh29patil/MediVault/assets/100946390/d8c06a3d-fcf7-467a-8586-8fa5b2afa48c" alt="Signup Screen" width="450" height="300"> -->
+<img align="center" src="Frontend/src/assets/images/find_doctor.png" alt="Find Doctor" width="550" height="300">
+<p align="center"><em>Doctor's List</em></p>
  </div>
-<br></br>
+<br>
 <div align="center">
-<!-- <img align="center" src="https://github.com/Bhavesh29patil/MediVault/assets/100946390/94fcd3bc-df22-43ba-b867-5b496511ba3f" alt="Screenshot 2" width="600" height="400"> -->
-<p align="center"><em>Screenshot </em></p>
+<img align="center" src="Frontend/src/assets/images/user_appoint.png" alt="User Appointment" width="550" height="300">
+<p align="center"><em>User Appointment History</em></p>
  </div>
-
-<br></br>
+ <br>
 <div align="center">
-<!-- <img align="center" src="https://github.com/Bhavesh29patil/MediVault/assets/100946390/cfbb4831-f8cc-4bd6-8899-dc6a6df734ab" alt="Screenshot 1" width="600" height="400"> -->
-<p align="center"><em>Screenshot </em></p>
+<img align="center" src="Frontend/src/assets/images/user_setting.png" alt="User Profile" width="550" height="300">
+<p align="center"><em>User Profile</em></p>
  </div>
+ <br>
+ <div align="center">
+<img align="center" src="Frontend/src/assets/images/doct_info.png" alt="Doctor Info" width="550" height="300">
+<p align="center"><em>Doctor Info</em></p>
+ </div>
+ <br>
+ <div align="center">
+<img align="center" src="Frontend/src/assets/images/doct_appoint.png" alt="Doctor Appointment" width="550" height="300">
+<p align="center"><em>Doctor Appointment History</em></p>
+ </div>
+ <br>
+<div align="center">
+<img align="center" src="Frontend/src/assets/images/doct_profile.png" alt="Doctor Profile" width="550" height="300">
+<p align="center"><em>Doctor Profile</em></p>
+ </div>
+ <br>
+ <div align="center">
+<img align="center" src="Frontend/src/assets/images/pres.png" alt="prescription" width="550" height="300">
+<p align="center"><em>Prescription</em></p>
+ </div>
+ <br>
+ <div align="center">
+<img align="center" src="Frontend/src/assets/images/admin_dashboard1.png" alt="admin_dashboard1" width="550" height="300">
+<p align="center"><em>Doctor's Applications</em></p>
+ </div>
+ <br>
+ <div align="center">
+<img align="center" src="Frontend/src/assets/images/admin_dashboard2.png" alt="admin_dashboard2" width="550" height="300">
+<p align="center"><em>List of all Verified Doctors</em></p>
+ </div>
+ <br>
+<div align="center">
+<img align="center" src="Frontend/src/assets/images/admin_dashboard3.png" alt="admin_dashboard3" width="550" height="300">
+<p align="center"><em>List of all Users</em></p>
+ </div>
+ <br>
+ 
 
 
 
@@ -86,6 +127,7 @@ and personalized medication reminders, our platform aims to revolutionize health
 * [![Tailwind][tailwindcss.com]][tailwindcss-url]
 * [![Node][Node.js]][Node-url]
 * [![Express][Express.js]][Express-url]
+* [![Flask][Flask.com]][Flask-url]
 * [![MongoDb][MongoDb.com]][MongoDb-url]
 
 
@@ -143,6 +185,8 @@ and personalized medication reminders, our platform aims to revolutionize health
 [tailwindcss-url]: https://tailwindcss.com/
 [MongoDb.com]: https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white
 [MongoDb-url]: https://www.mongodb.com/
+[Flask.com]: https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white
+[Flask-url]: https://flask.palletsprojects.com/en/3.0.x/
 
 [razorpay-url]: https://razorpay.com/
 [razorpay.com]: https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=3395FF
