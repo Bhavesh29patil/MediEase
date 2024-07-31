@@ -102,10 +102,6 @@ and personalized medication reminders, our platform aims to revolutionize health
  </div>
  <br>
  
-
-
-
-
 ### Key Features:
 
 * Virtual Healthcare Platform: Our Virtual Medical Platform offers remote consultation services, allowing patients to access healthcare professionals from the comfort of their homes. This overcomes geographical barriers and improves healthcare accessibility.
