@@ -131,9 +131,11 @@ and personalized medication reminders, our platform aims to revolutionize health
 
 * ![razorpay.com]
 * ![zoom.com]
+* ![cloudinary.com]
 * ![twilio.com]
 * ![ultramsg.com]
 * ![email.js]
+* ![weglot.com]
 
 
 <!-- GETTING STARTED -->
@@ -190,7 +192,9 @@ and personalized medication reminders, our platform aims to revolutionize health
 [zoom-url]: https://zoom.us/
 [zoom.com]: https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white 
 
-[twilio.com]: https://img.shields.io/badge/-Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white
+[cloudinary.com]: https://img.shields.io/badge/-Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white
 [ultramsg.com]: https://img.shields.io/badge/-ultramsg-13aa52?style=for-the-badge&logo=ultramsg&logoColor=white
 [email.js]: https://img.shields.io/badge/-emailjs-FFA116?style=for-the-badge&Color=white
+[weglot.com]: https://img.shields.io/badge/weglot-00599C?style=for-the-badge
+[twilio.com]: https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white
 
